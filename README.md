@@ -13,36 +13,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Gaganpreet Singh
 
-This is GeekySingh and I'm a software engineer from India. You can find me on [![Medium][1.2]][1], or on [![LinkedIn][2.2]][2].
+I work as a mobile app developer with UI/UX design skills (front-end designer). I´m based in Gurgaon, India.
+
+Since 2012 I've been living and breathing mobile app development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
+
+You can find me on [![Medium][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on Medium at [geekysingh](https://geekysingh.medium.com/).
+<br/>Here are some of my recent articles
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/0" alt="Recent Article 0"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/1" alt="Recent Article 1"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/2" alt="Recent Article 2">
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/GeekySingh/GeekySingh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekySingh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeekySingh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GeekySingh's GitHub Stats" />
 </a>
 <a href="https://github.com/GeekySingh/GeekySingh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeekySingh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GeekySingh's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeekySingh&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/GeekySingh/flutter_clean_architecture">
@@ -52,7 +48,12 @@ Apart from coding, I also maintain a blog - you can find my articles on Medium a
 
 <a href="https://github.com/GeekySingh/flutter_data_caching">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekysingh&repo=flutter_data_caching&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
+
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geekysingh/)](https://www.linkedin.com/in/geekysingh/)  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://geekysingh.medium.com/)](https://geekysingh.medium.com/)
 
 <!-- Icons -->
 
