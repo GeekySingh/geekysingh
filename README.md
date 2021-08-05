@@ -15,22 +15,17 @@ Here are some ideas to get you started:
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello, I'm Gaganpreet Singh
 
-I work as a mobile app developer with UI/UX design skills (front-end designer). I´m based in Gurgaon, India.
+I work as a native and hybrid mobile app developer. I´m based in Gurgaon, India.
 
-Since 2012 I've been living and breathing mobile app development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
-
-You can find me on [![Medium][1.2]][1], or on [![LinkedIn][2.2]][2].
+Since 2012 I've been living and breathing mobile app development and creating modern and user friendly interfaces using Android and Flutter frameworks. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on Medium at [geekysingh](https://geekysingh.medium.com/).
+Apart from coding, I also maintain a blog - you can find my articles on Medium at [GeekySingh](https://geekysingh.medium.com/).
 <br/>Here are some of my recent articles
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/0" alt="Recent Article 0"> 
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/1" alt="Recent Article 1"> 
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/0" alt="Recent Article 0"></a>
+    <br/> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/2" alt="Recent Article 2"></a>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -50,8 +45,12 @@ Apart from coding, I also maintain a blog - you can find my articles on Medium a
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekysingh&repo=flutter_data_caching&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+### 👯 I’m looking to collaborate on
+- Any impactful Android/Flutter projects
+- Founding a Startup? Let's talk, impress me, then I'll give my everything to help you!
+- Blogging and Writing 
 
-### Find me elsewhere 🌎
+### 🌎 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geekysingh/)](https://www.linkedin.com/in/geekysingh/)  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://geekysingh.medium.com/)](https://geekysingh.medium.com/)
 
