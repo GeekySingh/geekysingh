@@ -25,6 +25,7 @@ Apart from coding, I also maintain a blog - you can find my articles on Medium a
 <br/>Here are some of my recent articles
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/0" alt="Recent Article 0"></a>
+ <br/> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/1" alt="Recent Article 1"></a>
     <br/> <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geekysingh/2" alt="Recent Article 2"></a>
 
 ## &#x1f4c8; GitHub Stats
